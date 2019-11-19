@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.9671dbbe.chunk.css",
-    "main.js": "/robofriends/static/js/main.56860971.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.56860971.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.a9498424.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.a9498424.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/robofriends/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.761caa3a.chunk.js": "/robofriends/static/js/2.761caa3a.chunk.js",
-    "static/js/2.761caa3a.chunk.js.map": "/robofriends/static/js/2.761caa3a.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "precache-manifest.1bb9cad9f8c8e871aaa2988b357945f4.js": "/robofriends/precache-manifest.1bb9cad9f8c8e871aaa2988b357945f4.js",
-    "service-worker.js": "/robofriends/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/robofriends/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.9671dbbe.chunk.css.map": "/robofriends/static/css/main.9671dbbe.chunk.css.map"
+    "main.css": "/ZTM-robofriends-project/static/css/main.9671dbbe.chunk.css",
+    "main.js": "/ZTM-robofriends-project/static/js/main.a73c325e.chunk.js",
+    "main.js.map": "/ZTM-robofriends-project/static/js/main.a73c325e.chunk.js.map",
+    "runtime-main.js": "/ZTM-robofriends-project/static/js/runtime-main.b35bc052.js",
+    "runtime-main.js.map": "/ZTM-robofriends-project/static/js/runtime-main.b35bc052.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/ZTM-robofriends-project/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.761caa3a.chunk.js": "/ZTM-robofriends-project/static/js/2.761caa3a.chunk.js",
+    "static/js/2.761caa3a.chunk.js.map": "/ZTM-robofriends-project/static/js/2.761caa3a.chunk.js.map",
+    "index.html": "/ZTM-robofriends-project/index.html",
+    "precache-manifest.6730bab8df430fd24ba69d5841a0354d.js": "/ZTM-robofriends-project/precache-manifest.6730bab8df430fd24ba69d5841a0354d.js",
+    "service-worker.js": "/ZTM-robofriends-project/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/ZTM-robofriends-project/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.9671dbbe.chunk.css.map": "/ZTM-robofriends-project/static/css/main.9671dbbe.chunk.css.map"
   }
 }
